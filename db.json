@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": " Rahul",
+      "username": "Rahul1234",
+      "email": "Rahul@gmail.com",
+      "phone": "87438753",
+      "website": "Rahul.com",
+      "id": 2
+    },
+    {
+      "name": " vishal ",
+      "username": "vishal1234",
+      "email": "vishal@gmail.com",
+      "phone": "893494389243",
+      "website": "vish.com",
+      "id": 3
+    },
+    {
+      "name": " vikram",
+      "username": "dfjklajf",
+      "email": "jdfksaf@gmail.com",
+      "phone": "7587532",
+      "website": "kdsfk.com",
+      "id": 4
+    },
+    {
+      "name": "dharmendar",
+      "username": "dhamendar1234",
+      "email": "dharmendar@gmal.com",
+      "phone": "787347283",
+      "website": "dharmendar.com",
+      "id": 5
+    },
+    {
+      "name": "nirala",
+      "username": "nirala123",
+      "email": "nirala@gmail.com",
+      "phone": "8784738438",
+      "website": "nirala.com",
+      "id": 6
+    }
+  ]
+}
